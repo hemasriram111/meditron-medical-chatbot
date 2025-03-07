@@ -1,0 +1,6 @@
+# For potential future features
+numpy>=1.26.0
+pandas>=2.1.0
+python-dotenv>=1.0.0  # for environment variables
+requests>=2.31.0      # for API calls
+websockets>=11.0.3    # for advanced streaming
