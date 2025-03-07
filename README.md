@@ -1,4 +1,4 @@
-N# Ayushmana: AI in Health Care 🏥
+## Ayushmana: AI in Health Care 🏥
 
 Ayushmana is an AI-powered healthcare chatbot that leverages a local Meditron LLM and Google Gemini Vision API to assist users with medical queries and prescription analysis.
 
@@ -19,8 +19,8 @@ Ayushmana is an AI-powered healthcare chatbot that leverages a local Meditron LL
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ayushmana-ai.git
-   cd ayushmana-ai
+   git clone https: https://github.com/hemasriram111/meditron-medical-agent.git
+   cd meditron-medical-agent
    ```
 2. Install dependencies:
    ```bash
