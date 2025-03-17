@@ -19,7 +19,7 @@ Ayushmana is an AI-powered healthcare chatbot that leverages a local Meditron LL
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https: https://github.com/hemasriram111/meditron-medical-agent.git
+   git clone https: https://github.com/hemasriram111/meditron-medical-chatbot.git
    cd meditron-medical-agent
    ```
 2. Install dependencies:
